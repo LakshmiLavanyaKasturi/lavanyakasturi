@@ -18,8 +18,8 @@ Skilled Technical Project Manager with 2.5 years of experience in IT industry an
 ### Work History
 Swarajhari School Of Music \
 Entrepreneur, Founder And Director - Sammamish, WA                                                            05/2015 - Current \
-.35 students at various levels \
-.Planning, scheduling, organizing classes and track the growth of students
+* 35 students at various levels \
+* Planning, scheduling, organizing classes and track the growth of students
 
 ### Technical Project Manager
 Ensocare - Seattle, WA                                                                                            06/2013 - 12/2014 \
