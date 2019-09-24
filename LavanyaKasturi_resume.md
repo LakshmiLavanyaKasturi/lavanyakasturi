@@ -56,6 +56,6 @@ CERTIFICATIONS
 [LINKED IN Profile][1]
 [GITHUB Account][2]
 
-[LINKEDIN] (https://www.linkedin.com/in/lavanya-kasturi-2533b526)
+[LINKEDIN](https://www.linkedin.com/in/lavanya-kasturi-2533b526)
 
-[GITHUB] (https://github.com/LakshmiLavanyaKasturi)
+[GITHUB](https://github.com/LakshmiLavanyaKasturi)
