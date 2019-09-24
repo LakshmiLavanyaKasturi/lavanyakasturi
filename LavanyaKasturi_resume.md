@@ -22,8 +22,8 @@ Entrepreneur, Founder And Director - Sammamish, WA                              
 .Planning, scheduling, organizing classes and track the growth of students
 
 ### Technical Project Manager
-Ensocare - Seattle, WA \                                                                                    06/2013 - 12/2014
-Transition, e-platform to help hospitals and care provider's streamline the patient transition post-discharge. 
+Ensocare - Seattle, WA                                                                                            06/2013 - 12/2014 \
+Transition, e-platform to help hospitals and care provider's streamline the patient transition post-discharge. \
 Responsibilities:
 * Designed and developed key results and product progress dashboards 
 * Delivered project milestones working with a team of 16 developers and 14 Quality assurance analysts 
@@ -34,7 +34,7 @@ Responsibilities:
 
 Environment: Java, Spring Frame work, Spring MVC, Hibernate, RESTful services, My SQL, SQL Server, Angular JS, HTML, CSS Bootstrap, Junit, Maven, JIRA
 
-### Software Analyst \
+### Software Analyst 
 Hexagon Inc. (Ex: Intergraph) - Hyderabad, Andhra Pradesh, India \
 G/Technology, feature-rich application platform designed to meet the geospatial resource management needs of utilities and communications companies. \
 Responsibilities:
@@ -45,9 +45,9 @@ Responsibilities:
 
 Environment: C#.net, Oracle 10g/11g, Manual Testing, QTP 10 & Toad, QC
 
-EDUCATION   \
+EDUCATION  
 * Bachelor of Technology: Electronics And Computer Engineering \
-* PVP Siddhartha Engineering College - Andhra Pradesh, India
+* PVP Siddhartha Engineering College - Andhra Pradesh, India.
 
 CERTIFICATIONS
 * HIPAA Certified Professional. \
