@@ -46,11 +46,11 @@ Responsibilities:
 Environment: C#.net, Oracle 10g/11g, Manual Testing, QTP 10 & Toad, QC
 
 EDUCATION  
-* Bachelor of Technology: Electronics And Computer Engineering \
+* Bachelor of Technology: Electronics And Computer Engineering 
 * PVP Siddhartha Engineering College - Andhra Pradesh, India.
 
 CERTIFICATIONS
-* HIPAA Certified Professional. \
+* HIPAA Certified Professional. 
 * Introduction to Software Product Management Course by University of Alberta.
 
 [LINKEDIN](https://www.linkedin.com/in/lavanya-kasturi-2533b526)
