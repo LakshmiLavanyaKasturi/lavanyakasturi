@@ -16,15 +16,15 @@ Skilled Technical Project Manager with 2.5 years of experience in IT industry an
 * Quality assurance 
 
 ### Work History
-Swarajhari School Of Music 
-Entrepreneur, Founder And Director - Sammamish, WA                                                            05/2015 - Current
-.35 students at various levels 
+Swarajhari School Of Music \
+Entrepreneur, Founder And Director - Sammamish, WA                                                            05/2015 - Current \
+.35 students at various levels \
 .Planning, scheduling, organizing classes and track the growth of students
 
 ### Technical Project Manager
-Ensocare - Seattle, WA                                                                                         06/2013 - 12/2014
+Ensocare - Seattle, WA \                                                                                    06/2013 - 12/2014
 Transition, e-platform to help hospitals and care provider's streamline the patient transition post-discharge. 
-### Responsibilities:
+Responsibilities:
 * Designed and developed key results and product progress dashboards 
 * Delivered project milestones working with a team of 16 developers and 14 Quality assurance analysts 
 * Designed and delivered end to end, a Version 2 product 
@@ -34,9 +34,9 @@ Transition, e-platform to help hospitals and care provider's streamline the pati
 
 Environment: Java, Spring Frame work, Spring MVC, Hibernate, RESTful services, My SQL, SQL Server, Angular JS, HTML, CSS Bootstrap, Junit, Maven, JIRA
 
-Software Analyst 
-Hexagon Inc. (Ex: Intergraph) - Hyderabad, Andhra Pradesh, India 
-G/Technology, feature-rich application platform designed to meet the geospatial resource management needs of utilities and communications companies.
+### Software Analyst \
+Hexagon Inc. (Ex: Intergraph) - Hyderabad, Andhra Pradesh, India \
+G/Technology, feature-rich application platform designed to meet the geospatial resource management needs of utilities and communications companies. \
 Responsibilities:
 * Analyzed project requirements to find bugs and eliminate issues 
 * Worked extensively with engineering staff to better understand geospatial solutions and benefits 
@@ -45,16 +45,13 @@ Responsibilities:
 
 Environment: C#.net, Oracle 10g/11g, Manual Testing, QTP 10 & Toad, QC
 
-EDUCATION
-* Bachelor of Technology: Electronics And Computer Engineering
+EDUCATION   \
+* Bachelor of Technology: Electronics And Computer Engineering \
 * PVP Siddhartha Engineering College - Andhra Pradesh, India
 
 CERTIFICATIONS
-* HIPAA Certified Professional. 
+* HIPAA Certified Professional. \
 * Introduction to Software Product Management Course by University of Alberta.
-
-[LINKED IN Profile][1]
-[GITHUB Account][2]
 
 [LINKEDIN](https://www.linkedin.com/in/lavanya-kasturi-2533b526)
 
